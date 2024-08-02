@@ -1,2 +1,2 @@
 # ImageClassifier
-Image Classifier mad in 
+Image Classifier mad in Python with TensorFlow2
